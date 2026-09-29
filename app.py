@@ -10,6 +10,7 @@ from eq import auth, drive, engine, io as eio, kpis
 st.set_page_config(page_title="Matriz de Criticidade — Equalização", page_icon="📊", layout="wide")
 auth.gate()
 
+PASTA_DRIVE_PADRAO = "1tbQhF_HoETuN16mxoYP4wuXN-2oFynel"  # EQUALIZACAO_DADOS_MENSAIS (sobrescreva em [drive] folder_id)
 NAVY = "#1F3864"
 COR = {"ALTA": "#E53935", "MÉDIA": "#FB8C00", "BAIXA": "#43A047", "SEM DADO": "#9E9E9E"}
 CFG = json.load(open(os.path.join(os.path.dirname(__file__), "config", "cfg.json"), encoding="utf8"))
@@ -48,8 +49,9 @@ def baixar_drive(file_id: str, mime: str, modificado: str):
 # ---------------------------------------------------------------- barra lateral: fonte de dados
 st.sidebar.title("📊 Equalização")
 st.sidebar.caption("Matriz de Criticidade · DRH/TJMA")
-drive_ok = "gcp_service_account" in st.secrets and "drive" in st.secrets and st.secrets["drive"].get("folder_id")
-modos = ["Arrastar arquivo (esta sessão)"] + (["Pasta do Google Drive (meses)"] if drive_ok else [])
+drive_ok = "gcp_service_account" in st.secrets
+PASTA_ID = (st.secrets["drive"].get("folder_id") if "drive" in st.secrets else None) or PASTA_DRIVE_PADRAO
+modos = (["Pasta do Google Drive (meses)"] if drive_ok else []) + ["Arrastar arquivo (esta sessão)"]
 modo = st.sidebar.radio("Fonte dos dados", modos)
 cfg_json = json.dumps(CFG, ensure_ascii=False)
 arquivos, rotulo_mes = [], "Sessão atual"
@@ -65,7 +67,7 @@ else:
     if st.sidebar.button("↻ Atualizar pasta"):
         st.cache_data.clear()
     try:
-        ok, ign = listar_drive(st.secrets["drive"]["folder_id"], "v1")
+        ok, ign = listar_drive(PASTA_ID, "v1")
     except Exception as e:  # noqa
         st.sidebar.error(f"Falha ao ler a pasta do Drive: {e}")
         ok, ign = [], []
@@ -91,7 +93,9 @@ auth.logout_button()
 
 st.title("Matriz de Criticidade — Equalização da Força de Trabalho")
 if not arquivos:
-    st.info("Arraste o arquivo ORIGINAL na barra lateral (ou escolha um mês da pasta do Drive) para gerar painéis, dados tratados, KPIs e relatórios.")
+    st.info("Escolha um mês da pasta do Drive ou arraste o arquivo ORIGINAL (bagunçado) na barra lateral: o app gera painéis, a Matriz de CRITICIDADE organizada, KPIs e relatórios.")
+    if not drive_ok:
+        st.caption("Pasta do Google Drive ainda não conectada (falta [gcp_service_account] em Secrets). Veja o README, passo 2.")
     with st.expander("Como funciona"):
         st.markdown("""1. O arquivo **original** (sem filtragem) é lido como vem, inclusive `#N/A` e rodapé.  
 2. O motor calcula Déficit normalizado, IPCO, classe (ALTA/MÉDIA/BAIXA) e ranking, com as regras validadas contra a Matriz final.  
@@ -117,7 +121,9 @@ st.caption(f"Referência: **{rotulo_mes}** · {len(DF)} registros tratados · un
 universo = st.selectbox("Universo", list(DF["universo"].unique()), help="SECRE = cargos de secretaria · SEJUD = unidades atendidas pelas Secretarias Judiciais Únicas Digitais · GAB = cargos de gabinete")
 D = DF[DF["universo"] == universo].copy()
 
-tab_pain, tab_dados, tab_kpi, tab_rel, tab_q = st.tabs(["📊 Painéis", "🗂️ Dados brutos", "📘 KPIs", "📄 Relatório", "🔎 Qualidade"])
+tab_pain, tab_dados, tab_mat, tab_kpi, tab_rel, tab_exp, tab_q = st.tabs(["📊 Painéis", "🗂️ Dados brutos", "🧾 Matriz organizada", "📘 KPIs", "📄 Relatório", "📥 Exportação", "🔎 Qualidade"])
+SUF = f"{rotulo_mes.replace('/', '-').replace(' ', '_')}"
+X = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
 
 # ---------------------------------------------------------------- PAINÉIS
 with tab_pain:
@@ -227,11 +233,28 @@ with tab_dados:
     st.dataframe(show, use_container_width=True, height=520, hide_index=True,
                  column_config={"Tx congestionamento": st.column_config.NumberColumn(format="percent"), "IPCO [0-1]": st.column_config.ProgressColumn(min_value=0, max_value=1, format="%.3f"),
                                 "N_Déficit": st.column_config.NumberColumn(format="%.4f"), "N_Média": st.column_config.NumberColumn(format="%.4f"), "N_TxCong": st.column_config.NumberColumn(format="%.4f")})
-    x1, x2, x3 = st.columns(3)
-    x1.download_button("⬇ XLSX (filtrado)", eio.xlsx_bytes(show, "Dados"), f"dados_tratados_{universo}.xlsx", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet")
-    x2.download_button("⬇ CSV (filtrado)", show.to_csv(index=False, sep=";", decimal=",").encode("utf-8-sig"), f"dados_tratados_{universo}.csv", "text/csv")
-    x3.download_button("⬇ Matriz de CRITICIDADE formatada (todos os universos)", eio.matriz_formatada(DF), f"Matriz_de_CRITICIDADE_{rotulo_mes.replace('/', '-').replace(' ', '_')}.xlsx",
-                       "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", help="Mesmo layout do arquivo final (cores por classe, negrito, cinza sem dados, legenda).")
+    x1, x2, x3, x4 = st.columns(4)
+    x1.download_button("⬇ XLSX (filtrado)", eio.xlsx_bytes(show, "Dados"), f"dados_tratados_{universo}_{SUF}.xlsx", X)
+    x2.download_button("⬇ CSV UTF-8 (filtrado)", eio.csv_utf8(show), f"dados_tratados_{universo}_{SUF}.csv", "text/csv; charset=utf-8")
+    x3.download_button("⬇ HTML (filtrado)", eio.html_tabela(show, f"Dados tratados — {universo}", f"Referência: {rotulo_mes}"), f"dados_tratados_{universo}_{SUF}.html", "text/html; charset=utf-8")
+    x4.download_button("⬇ PDF (filtrado)", eio.pdf_bytes(f"Dados tratados — {universo}", f"Referência: {rotulo_mes} · {len(F)} unidades", show), f"dados_tratados_{universo}_{SUF}.pdf", "application/pdf", disabled=F.empty)
+
+# ---------------------------------------------------------------- MATRIZ ORGANIZADA
+with tab_mat:
+    st.caption("A planilha bagunçada vira a Matriz de CRITICIDADE organizada: mesmo layout do arquivo final (ordenada por IPCO, cores por classe, negrito para residente/estagiário, cinza sem dados, legenda).")
+    nomes = {"SECRE": "IPCO - Rank Criticidade - SECRE", "GAB": "IPCO - Rank Criticidade - GAB", "SEJUD": "Unidades Atendidas SEJUD"}
+    disp = [u for u in nomes if u in set(DF["universo"])]
+    abas = st.tabs([nomes[u] for u in disp])
+    corcl = {"ALTA": "background-color:#FF4444;color:white;font-weight:bold", "MÉDIA": "background-color:#FFA500;color:white;font-weight:bold", "BAIXA": "background-color:#5CB85C;color:white;font-weight:bold"}
+    for a_, u in zip(abas, disp):
+        with a_:
+            v_ = eio.df_rotulado(DF[DF["universo"] == u].sort_values("rank")).drop(columns=["Universo"])
+            sty = v_.style.map(lambda c: corcl.get(c, ""), subset=["Classe"]).format({"Tx congestionamento": "{:.2%}", "IPCO [0-1]": "{:.4f}", "N_Déficit": "{:+.4f}", "N_Média": "{:.4f}", "N_TxCong": "{:.4f}"}, na_rep="—")
+            st.dataframe(sty, use_container_width=True, hide_index=True, height=520)
+    m1, m2, m3 = st.columns(3)
+    m1.download_button("⬇ Matriz organizada (XLSX)", eio.matriz_formatada(DF), f"Matriz_de_CRITICIDADE_{SUF}.xlsx", X, type="primary")
+    m2.download_button("⬇ Matriz organizada (PDF)", eio.matriz_pdf(DF, rotulo_mes), f"Matriz_de_CRITICIDADE_{SUF}.pdf", "application/pdf")
+    m3.download_button("⬇ Matriz organizada (HTML)", eio.html_matriz(DF, rotulo_mes), f"Matriz_de_CRITICIDADE_{SUF}.html", "text/html; charset=utf-8")
 
 # ---------------------------------------------------------------- KPIs
 with tab_kpi:
@@ -251,11 +274,29 @@ with tab_rel:
     st.metric("Unidades listadas", len(R)); 
     rel = eio.df_rotulado(R)
     st.dataframe(rel, use_container_width=True, hide_index=True, height=420)
-    nome_base = f"Relatorio_{k[0]}_{universo}_{rotulo_mes.replace('/', '-').replace(' ', '_')}"
-    r1, r2, r3 = st.columns(3)
+    nome_base = f"Relatorio_{k[0]}_{universo}_{SUF}"
+    r1, r2, r3, r4 = st.columns(4)
     r1.download_button("⬇ PDF", eio.pdf_bytes(f"{k[0]} — {k[1]}", f"Universo {universo} · {rotulo_mes} · {len(R)} unidades · emitido em {datetime.date.today():%d/%m/%Y}", rel) if len(R) else b"", nome_base + ".pdf", "application/pdf", disabled=R.empty)
-    r2.download_button("⬇ XLSX", eio.xlsx_bytes(rel, "Relatório"), nome_base + ".xlsx", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet")
-    r3.download_button("⬇ CSV", rel.to_csv(index=False, sep=";", decimal=",").encode("utf-8-sig"), nome_base + ".csv", "text/csv")
+    r2.download_button("⬇ HTML", eio.html_tabela(rel, f"{k[0]} — {k[1]}", f"Universo {universo} · {rotulo_mes}", [("Unidades listadas", len(R))], k[4]), nome_base + ".html", "text/html; charset=utf-8")
+    r3.download_button("⬇ XLSX", eio.xlsx_bytes(rel, "Relatório"), nome_base + ".xlsx", X)
+    r4.download_button("⬇ CSV UTF-8", eio.csv_utf8(rel), nome_base + ".csv", "text/csv; charset=utf-8")
+
+# ---------------------------------------------------------------- EXPORTAÇÃO
+with tab_exp:
+    st.caption("Central de exportação — PDF, HTML (CSS3 autônomo), XLSX e CSV em UTF-8 (Unicode). Referência: " + rotulo_mes)
+    st.markdown("**Matriz de CRITICIDADE organizada** (todos os universos do arquivo)")
+    e1, e2, e3 = st.columns(3)
+    e1.download_button("⬇ XLSX", eio.matriz_formatada(DF), f"Matriz_de_CRITICIDADE_{SUF}.xlsx", X, key="e_x")
+    e2.download_button("⬇ PDF", eio.matriz_pdf(DF, rotulo_mes), f"Matriz_de_CRITICIDADE_{SUF}.pdf", "application/pdf", key="e_p")
+    e3.download_button("⬇ HTML", eio.html_matriz(DF, rotulo_mes), f"Matriz_de_CRITICIDADE_{SUF}.html", "text/html; charset=utf-8", key="e_h")
+    st.markdown(f"**Dados tratados — universo {universo}** (sem filtros)")
+    full = eio.df_rotulado(D.sort_values("rank"))
+    f1, f2, f3, f4 = st.columns(4)
+    f1.download_button("⬇ XLSX", eio.xlsx_bytes(full, "Dados"), f"dados_tratados_{universo}_{SUF}.xlsx", X, key="f_x")
+    f2.download_button("⬇ CSV UTF-8", eio.csv_utf8(full), f"dados_tratados_{universo}_{SUF}.csv", "text/csv; charset=utf-8", key="f_c")
+    f3.download_button("⬇ HTML", eio.html_tabela(full, f"Dados tratados — {universo}", f"Referência: {rotulo_mes}"), f"dados_tratados_{universo}_{SUF}.html", "text/html; charset=utf-8", key="f_h")
+    f4.download_button("⬇ PDF", eio.pdf_bytes(f"Dados tratados — {universo}", f"Referência: {rotulo_mes} · {len(full)} unidades", full), f"dados_tratados_{universo}_{SUF}.pdf", "application/pdf", key="f_p")
+    st.markdown("**Relatórios por KPI crítico** (aba 📄 Relatório): PDF · HTML · XLSX · CSV UTF-8. **Catálogo de KPIs:** aba 📘 KPIs.")
 
 # ---------------------------------------------------------------- QUALIDADE
 with tab_q:
