@@ -1,0 +1,3247 @@
+{
+ "sejud": [
+  {
+   "lot": 1077,
+   "lotFinal": 1077,
+   "unidade": "2ª VARA DA COMARCA DE BALSAS",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1076,
+   "lotFinal": 1076,
+   "unidade": "1ª VARA DA COMARCA DE BALSAS",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1669,
+   "lotFinal": 1669,
+   "unidade": "3ª VARA DA COMARCA DE BALSAS",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1066,
+   "lotFinal": 1066,
+   "unidade": "2ª VARA CÍVEL DA COMARCA DE AÇAILÂNDIA",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1065,
+   "lotFinal": 1065,
+   "unidade": "1ª VARA CÍVEL DA COMARCA DE AÇAILÂNDIA",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1351,
+   "lotFinal": 1351,
+   "unidade": "1ª VARA DA FAMÍLIA DA COMARCA DE AÇAILÂNDIA",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 19303,
+   "lotFinal": 19303,
+   "unidade": "VARA DA FAZENDA PÚBLICA DA COMARCA DE AÇAILÂNDIA",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1888,
+   "lotFinal": 1888,
+   "unidade": "13ª VARA CÍVEL DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1167,
+   "lotFinal": 1167,
+   "unidade": "5ª VARA CÍVEL DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1886,
+   "lotFinal": 1886,
+   "unidade": "11ª VARA CÍVEL DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 19121,
+   "lotFinal": 19121,
+   "unidade": "16ª VARA CÍVEL DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1790,
+   "lotFinal": 1790,
+   "unidade": "2ª VARA DA FAMÍLIA DA COMARCA DE AÇAILÂNDIA",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 19144,
+   "lotFinal": 19144,
+   "unidade": "6ª VARA DA FAZENDA PÚBLICA DO TERMO JUDICIÁRIO DE SÃO",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1887,
+   "lotFinal": 1887,
+   "unidade": "12ª VARA CÍVEL DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1172,
+   "lotFinal": 1178,
+   "unidade": "1ª VARA DA FAMÍLIA DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": 3,
+   "grupo": ""
+  },
+  {
+   "lot": 19145,
+   "lotFinal": 19145,
+   "unidade": "7ª VARA DA FAZENDA PÚBLICA DO TERMO JUDICIÁRIO DE SÃO",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1164,
+   "lotFinal": 1164,
+   "unidade": "2ª VARA CÍVEL DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1890,
+   "lotFinal": 1890,
+   "unidade": "15ª VARA CÍVEL DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1169,
+   "lotFinal": 1169,
+   "unidade": "7ª VARA CÍVEL DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1175,
+   "lotFinal": 1214,
+   "unidade": "4ª VARA DA FAMÍLIA DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": 3,
+   "grupo": ""
+  },
+  {
+   "lot": 1173,
+   "lotFinal": 1179,
+   "unidade": "2ª VARA DA FAMÍLIA DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": 3,
+   "grupo": ""
+  },
+  {
+   "lot": 1667,
+   "lotFinal": 19144,
+   "unidade": "6ª VARA DA FAMÍLIA DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": 3,
+   "grupo": ""
+  },
+  {
+   "lot": 1174,
+   "lotFinal": 1180,
+   "unidade": "3ª VARA DA FAMÍLIA DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": 3,
+   "grupo": ""
+  },
+  {
+   "lot": 1176,
+   "lotFinal": 1215,
+   "unidade": "5ª VARA DA FAMÍLIA DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": 3,
+   "grupo": ""
+  },
+  {
+   "lot": 1186,
+   "lotFinal": 1186,
+   "unidade": "3ª VARA DA CRIMINAL DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": 3,
+   "grupo": ""
+  },
+  {
+   "lot": 1184,
+   "lotFinal": 1184,
+   "unidade": "1ª VARA DA CRIMINAL DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": 3,
+   "grupo": ""
+  },
+  {
+   "lot": 1189,
+   "lotFinal": 1189,
+   "unidade": "6ª VARA DA CRIMINAL DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": 3,
+   "grupo": ""
+  },
+  {
+   "lot": 1187,
+   "lotFinal": 1187,
+   "unidade": "4ª VARA DA CRIMINAL DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": 3,
+   "grupo": ""
+  },
+  {
+   "lot": 1232,
+   "lotFinal": 1232,
+   "unidade": "5ª VARA DA CRIMINAL DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": 3,
+   "grupo": ""
+  },
+  {
+   "lot": 1185,
+   "lotFinal": 1185,
+   "unidade": "2ª VARA DA CRIMINALDO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": 3,
+   "grupo": ""
+  },
+  {
+   "lot": 1178,
+   "lotFinal": 1178,
+   "unidade": "1ª VARA DA FAZENDA PÚBLICA DO TERMO JUDICIÁRIO DE SÃO",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1180,
+   "lotFinal": 1180,
+   "unidade": "3ª VARA DA FAZENDA PÚBLICA DO TERMO JUDICIÁRIO DE SÃO",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1168,
+   "lotFinal": 1168,
+   "unidade": "6ª VARA CÍVEL DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1170,
+   "lotFinal": 1170,
+   "unidade": "8ª VARA CÍVEL DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 322,
+   "lotFinal": 322,
+   "unidade": "4ª VARA CÍVEL DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1889,
+   "lotFinal": 1889,
+   "unidade": "14ª VARA CÍVEL DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1163,
+   "lotFinal": 1163,
+   "unidade": "1ª VARA CÍVEL DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1884,
+   "lotFinal": 1884,
+   "unidade": "10ª VARA CÍVEL DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1171,
+   "lotFinal": 1171,
+   "unidade": "9ª VARA CÍVEL DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 19566,
+   "lotFinal": 19566,
+   "unidade": "8ª VARA DA FAZENDA PÚBLICA DO TERMO JUDICIÁRIO DE SÃO",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1179,
+   "lotFinal": 1179,
+   "unidade": "2ª VARA DA FAZENDA PÚBLICA DO TERMO JUDICIÁRIO DE SÃO",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1214,
+   "lotFinal": 1214,
+   "unidade": "4ª VARA DA FAZENDA PÚBLICA DO TERMO JUDICIÁRIO DE SÃO",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1215,
+   "lotFinal": 1215,
+   "unidade": "5ª VARA DA FAZENDA PÚBLICA DO TERMO JUDICIÁRIO DE SÃO",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 1165,
+   "lotFinal": 1165,
+   "unidade": "3ª VARA CÍVEL DO TERMO JUDICIÁRIO DE SÃO LUÍS",
+   "preenchidoOverride": null,
+   "grupo": ""
+  },
+  {
+   "lot": 19567,
+   "lotFinal": 19567,
+   "unidade": "9ª VARA DA FAZENDA PÚBLICA DO TERMO JUDICIÁRIO DE SÃO",
+   "preenchidoOverride": null,
+   "grupo": ""
+  }
+ ],
+ "recentes": [
+  19594,
+  19605,
+  1840,
+  1843,
+  19597,
+  19604,
+  19595,
+  19596
+ ],
+ "apoio": {
+  "SECRE|1858": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1875": {
+   "res": 2,
+   "est": 3,
+   "solic": ""
+  },
+  "SECRE|19200": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19350": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1133": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19405": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1892": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19113": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1083": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1670": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1750": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1093": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1104": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1901": {
+   "res": 1,
+   "est": 2,
+   "solic": ""
+  },
+  "SECRE|1223": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1092": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19114": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1158": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|314": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1162": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1748": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19356": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1102": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1121": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1106": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1855": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19594": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1085": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1081": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1361": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1204": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1142": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1863": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1091": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19230": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1073": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1222": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|129": {
+   "res": 0,
+   "est": 1,
+   "solic": ""
+  },
+  "SECRE|19110": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1758": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19198": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1090": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1928": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1756": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1225": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1123": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1202": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19235": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1111": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1086": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19432": {
+   "res": 6,
+   "est": 3,
+   "solic": ""
+  },
+  "SECRE|1103": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1191": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1200": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1154": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1364": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19112": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|127": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1765": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1195": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1825": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1161": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19118": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1193": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1094": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1190": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1771": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1224": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1511": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1145": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1139": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1788": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1152": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19239": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1703": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1898": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1742": {
+   "res": 1,
+   "est": 1,
+   "solic": ""
+  },
+  "SECRE|1859": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1702": {
+   "res": 0,
+   "est": 2,
+   "solic": ""
+  },
+  "SECRE|1769": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1151": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1143": {
+   "res": 0,
+   "est": 1,
+   "solic": ""
+  },
+  "SECRE|1810": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19225": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1126": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1176": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1130": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1712": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19115": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1773": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19117": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1074": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1219": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1177": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1212": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1834": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1907": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1374": {
+   "res": 0,
+   "est": 2,
+   "solic": ""
+  },
+  "SECRE|1338": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19245": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1136": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1063": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1809": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1082": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|144": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1339": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1137": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1205": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1449": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1874": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1096": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1366": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1201": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1764": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1155": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19119": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19120": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1183": {
+   "res": 3,
+   "est": 2,
+   "solic": ""
+  },
+  "SECRE|1095": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1749": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1118": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19605": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19346": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|133": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|170": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19542": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1067": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1725": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1367": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1897": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1812": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1838": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1862": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1146": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1206": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1211": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1363": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1160": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1131": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1153": {
+   "res": 3,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1159": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1220": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1671": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1149": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1138": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1172": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1808": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1362": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19338": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1903": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1127": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19364": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1218": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1865": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1068": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1134": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19557": {
+   "res": 2,
+   "est": 1,
+   "solic": ""
+  },
+  "SECRE|1733": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1079": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1728": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1345": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1766": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1071": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1084": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1352": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1113": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1124": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19242": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1144": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1075": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1208": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1097": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1064": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1078": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1072": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1129": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1087": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1099": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1114": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1192": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1115": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|146": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19317": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1839": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1726": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|130": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1080": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1089": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1120": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|156": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1775": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1132": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1236": {
+   "res": 7,
+   "est": 1,
+   "solic": ""
+  },
+  "SECRE|1454": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1110": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|142": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1109": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1182": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1135": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1210": {
+   "res": 0,
+   "est": 1,
+   "solic": ""
+  },
+  "SECRE|1147": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|169": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|165": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1098": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1368": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1116": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1070": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1365": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1743": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1696": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1207": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1173": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1787": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1203": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19241": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1148": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1667": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1174": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1105": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1782": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1779": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1112": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1840": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1843": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19597": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19604": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19595": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19116": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|143": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|134": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|147": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1341": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|137": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|150": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1745": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1117": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1150": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1861": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1125": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1088": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1101": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1194": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|135": {
+   "res": 0,
+   "est": 1,
+   "solic": ""
+  },
+  "SECRE|1199": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1342": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1108": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1221": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1122": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1752": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1860": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|151": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1141": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1069": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1227": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|160": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1156": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1734": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1868": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1896": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|149": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1209": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|132": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|148": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19539": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|19596": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1119": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1751": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|1175": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|159": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|136": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|166": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SECRE|138": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1077": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1076": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1669": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1066": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Estagiário  |  Proc.: 27514/2026  |  Dec.-GP: DECISÃO-GDG 1024/2026  |  [IMP/URG]"
+  },
+  "SEJUD|1065": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1351": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|19303": {
+   "res": 1,
+   "est": null,
+   "solic": "▶ Estagiário  |  Proc.: 24935/2025  |  Dec.-GP: 5749/2026  |  [IMP/URG]\n▶ Residente  |  Proc.: 44328/2026  |  Dec.-GP: 7164/2026  |  [IMP/NÃO URG]"
+  },
+  "SEJUD|1888": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1167": {
+   "res": 0,
+   "est": 1,
+   "solic": "▶ Residente  |  Proc.: 50700/2026  |  Dec.-GP: 9486/2026  |  [IMP/URG]"
+  },
+  "SEJUD|1886": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|19121": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1790": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|19144": {
+   "res": 2,
+   "est": 2,
+   "solic": "▶ Estagiário  |  Proc.: 27224/2026  |  Dec.-GP: 5914/2026  |  [IMP/URG]"
+  },
+  "SEJUD|1887": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1172": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|19145": {
+   "res": 2,
+   "est": null,
+   "solic": "▶ 1 Estagiário  |  Proc.: 6908/2026  |  Dec.-GP: 5046/2026 "
+  },
+  "SEJUD|1164": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1890": {
+   "res": 0,
+   "est": 1,
+   "solic": ""
+  },
+  "SEJUD|1169": {
+   "res": 4,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1175": {
+   "res": 3,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1173": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1667": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Estagiário  |  Proc.: 27224/2026  |  Dec.-GP: 5914/2026  |  [IMP/URG]"
+  },
+  "SEJUD|1174": {
+   "res": 2,
+   "est": 1,
+   "solic": ""
+  },
+  "SEJUD|1176": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1186": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1184": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1189": {
+   "res": 0,
+   "est": 2,
+   "solic": ""
+  },
+  "SEJUD|1187": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1232": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1185": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1178": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1180": {
+   "res": 3,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1168": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1170": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|322": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1889": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1163": {
+   "res": 5,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1884": {
+   "res": 3,
+   "est": 2,
+   "solic": ""
+  },
+  "SEJUD|1171": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|19566": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1179": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1214": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1215": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|1165": {
+   "res": 4,
+   "est": null,
+   "solic": ""
+  },
+  "SEJUD|19567": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19113": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1898": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Residente  |  Proc.: 28516/2026  |  Dec.-GP: 4990/2026  |  [IMP/URG]\n▶ Residente  |  Proc.: 28937/2026  |  Dec.-GP: 4776/2026  |  [IMP/URG]"
+  },
+  "GAB|1091": {
+   "res": 2,
+   "est": null,
+   "solic": "▶ Residente  |  [IMP/URG]"
+  },
+  "GAB|1082": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1745": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1101": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19405": {
+   "res": 2,
+   "est": null,
+   "solic": "▶ Estagiário  |  Proc.: 32819/2026  |  Dec.-GP: 6341/2026  |  [IMP/URG]"
+  },
+  "GAB|314": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1103": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1199": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19605": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19596": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19346": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1120": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1154": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1132": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Residente  |  Proc.: 1136/2025  |  Dec.-GP: 4329/2026  |  [IMP/URG]"
+  },
+  "GAB|1067": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1109": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1748": {
+   "res": 1,
+   "est": null,
+   "solic": "▶ Estagiário  |  Proc.: 15033/2026  |  Dec.-GP: 6618/2026  |  [IMP/NÃO URG]"
+  },
+  "GAB|1454": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1224": {
+   "res": 1,
+   "est": null,
+   "solic": "▶ Estagiário  |  Proc.: 40305/2026  |  Dec.-GP: 861/2026  |  [IMP/NÃO URG]"
+  },
+  "GAB|1168": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1152": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1788": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1170": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1670": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1171": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1146": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|322": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1164": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1165": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1889": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1167": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Residente  |  Proc.: 50700/2026  |  Dec.-GP: 9486/2026  |  [IMP/URG]"
+  },
+  "GAB|1884": {
+   "res": 3,
+   "est": 2,
+   "solic": ""
+  },
+  "GAB|19121": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1169": {
+   "res": 4,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1888": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|169": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1742": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1769": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19225": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1751": {
+   "res": 1,
+   "est": null,
+   "solic": "▶ Residente  |  Proc.: 18431/2026  |  Dec.-GP: 2912/2026  |  [IMP/URG]"
+  },
+  "GAB|19241": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19117": {
+   "res": 0,
+   "est": null,
+   "solic": "Proc.: 20536/2026  |  [IMP/URG]"
+  },
+  "GAB|1863": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|160": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1351": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1907": {
+   "res": 1,
+   "est": null,
+   "solic": "▶ Estagiário  |  Proc.: 26494/2026  |  Dec.-GP: 5740/2026  |  [IMP/URG]"
+  },
+  "GAB|19303": {
+   "res": 1,
+   "est": null,
+   "solic": "▶ Estagiário  |  Proc.: 24935/2025  |  Dec.-GP: 5749/2026  |  [IMP/URG]\n▶ Residente  |  Proc.: 44328/2026  |  Dec.-GP: 7164/2026  |  [IMP/NÃO URG]"
+  },
+  "GAB|1144": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19116": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Residente  |  Proc.: 9206/2026  |  Dec.-GP: 5363/2026  |  [IMP/URG]"
+  },
+  "GAB|1187": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19198": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1117": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1764": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19567": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19114": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Residente e Estagiário  |  Proc.: 53515/2026  |  Dec.-GP: 8798/2026  |  [IMP/URG]"
+  },
+  "GAB|1790": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1191": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19350": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19118": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1093": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1092": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19235": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1825": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1083": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Residente  |  Proc.: 32794/2026  |  Dec.-GP: 7250/2026  |  [IMP/URG]"
+  },
+  "GAB|1081": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1207": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1345": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1142": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1104": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Residente  |  Proc.: 30238/2026  |  Dec.-GP: 4369/2026  |  [IMP/URG]"
+  },
+  "GAB|1124": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1075": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1133": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1858": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1072": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1205": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|134": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1090": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1223": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1756": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19432": {
+   "res": 6,
+   "est": 3,
+   "solic": ""
+  },
+  "GAB|1096": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1225": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1123": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19200": {
+   "res": 2,
+   "est": null,
+   "solic": "▶ Residente  |  [IMP/URG]"
+  },
+  "GAB|1111": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1155": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1158": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|146": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1077": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1095": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Residente e Estagiário  |  Proc.: 32728/2026  |  Dec.-GP: 6324/2026  |  [IMP/URG]"
+  },
+  "GAB|19317": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1200": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1749": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1892": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1726": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1089": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1080": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1236": {
+   "res": 7,
+   "est": 1,
+   "solic": ""
+  },
+  "GAB|1076": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1775": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1161": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|133": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1110": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|170": {
+   "res": 1,
+   "est": null,
+   "solic": "▶ Residente  |  Proc.: 28179/2026  |  Dec.-GP: 5751/2026  |  [IMP/URG]"
+  },
+  "GAB|1162": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1367": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19356": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1094": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Estagiário  |  Proc.: 37164/2026  |  Dec.-GP: 6324/2026  |  [IMP/URG]"
+  },
+  "GAB|1108": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1121": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1102": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1511": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1135": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|142": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1812": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1771": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1221": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1897": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|132": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1139": {
+   "res": 2,
+   "est": null,
+   "solic": "Proc.: 22955/2026  |  [IMP/URG]"
+  },
+  "GAB|166": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1860": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1210": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|148": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1862": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1069": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1890": {
+   "res": 0,
+   "est": 1,
+   "solic": ""
+  },
+  "GAB|1887": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19239": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1160": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19145": {
+   "res": 2,
+   "est": null,
+   "solic": "▶ Estagiário  |  Proc.: 6908/2026  |  Dec.-GP: 5046/2026  |  [IMP/URG]"
+  },
+  "GAB|1211": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1066": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Estagiário  |  Proc.: 27514/2026  |  Dec.-GP: DECISÃO-GDG 1024/2026  |  [IMP/URG]"
+  },
+  "GAB|1131": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|151": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1159": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1065": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1163": {
+   "res": 5,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1703": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|165": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1886": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1153": {
+   "res": 3,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1172": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1138": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1859": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1149": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1119": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1702": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Residente  |  Proc.: 26234/2026  |  [IMP/NÃO URG]"
+  },
+  "GAB|1116": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1362": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1810": {
+   "res": 1,
+   "est": 1,
+   "solic": ""
+  },
+  "GAB|1151": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1671": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19338": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1143": {
+   "res": 0,
+   "est": 1,
+   "solic": ""
+  },
+  "GAB|19364": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1743": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19144": {
+   "res": 2,
+   "est": 1,
+   "solic": "▶ Estagiário  |  Proc.: 27224/2026  |  Dec.-GP: 5914/2026  |  [IMP/URG]"
+  },
+  "GAB|1903": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1127": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19557": {
+   "res": 2,
+   "est": 1,
+   "solic": ""
+  },
+  "GAB|1176": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1696": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1865": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Residente  |  Proc.: 11628/2026  |  [IMP/URG]"
+  },
+  "GAB|1787": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1204": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1173": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1130": {
+   "res": 1,
+   "est": null,
+   "solic": "▶ Residente  |  Proc.: 37825/2026  |  Dec.-GP: 6331/2026  |  [IMP/URG]"
+  },
+  "GAB|1773": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Estagiário  |  Proc.: 24937/2025  |  Dec.-GP: 5968/2026  |  [IMP/URG]"
+  },
+  "GAB|1074": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19115": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1212": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1203": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1667": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1669": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1175": {
+   "res": 3,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1148": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1338": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1174": {
+   "res": 2,
+   "est": 1,
+   "solic": ""
+  },
+  "GAB|1733": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1352": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Residente  |  Proc.: 59212/2026  |  Dec.-GP: 9877/2026  |  [IMP/URG]"
+  },
+  "GAB|1782": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1734": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1779": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1084": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1179": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|159": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1868": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19245": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1214": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19230": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1136": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1113": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19242": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1341": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1189": {
+   "res": 0,
+   "est": 2,
+   "solic": ""
+  },
+  "GAB|1073": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1339": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|147": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|143": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1078": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1184": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|129": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1137": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1449": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|137": {
+   "res": 2,
+   "est": null,
+   "solic": "▶ Residente  |  Proc.: 44661/2026  |  [IMP/URG]"
+  },
+  "GAB|1901": {
+   "res": 1,
+   "est": 2,
+   "solic": "▶ Estagiário  |  [IMP/NÃO URG]"
+  },
+  "GAB|19110": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1087": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1896": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Residente  |  Proc.: 27882/2026  |  Dec.-GP: 6090/2026  |  [IMP/URG]"
+  },
+  "GAB|1928": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1114": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1874": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1185": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1088": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|150": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1150": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1192": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1186": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1861": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19119": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Estagiário  |  Proc.: 23965/2026  |  [IMP/URG]"
+  },
+  "GAB|19120": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1194": {
+   "res": 3,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1115": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19566": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|149": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1118": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Estagiário  |  Proc.: 24936/2025  |  Dec.-GP: 5376/2026  |  [IMP/URG]\n▶ Residente e Estagiário  |  Proc.: 24936/2025  |  Dec.-GP: 5608/2026  |  [IMP/URG]\n▶ Estagiário  |  Proc.: 24007/2026  |  [IMP/URG]"
+  },
+  "GAB|1342": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|130": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|127": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Estagiário  |  Proc.: 55227/2026  |  Dec.-GP: 8731/2026  |  [IMP/URG]"
+  },
+  "GAB|19542": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1195": {
+   "res": 3,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19112": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|156": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1193": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1752": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Residente  |  Proc.: 28516/2026  |  Dec.-GP: 4990/2026  |  [IMP/URG]\n▶ Residente  |  Proc.: 28937/2026  |  Dec.-GP: 4776/2026  |  [IMP/URG]"
+  },
+  "GAB|19246": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19247": {
+   "res": 3,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1875": {
+   "res": 2,
+   "est": 3,
+   "solic": ""
+  },
+  "GAB|1086": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1202": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1725": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1177": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1178": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1750": {
+   "res": 4,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1215": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1112": {
+   "res": 3,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|138": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1180": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|144": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1232": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|136": {
+   "res": 1,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1183": {
+   "res": 4,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|135": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Estagiário  |  Proc.: 13270/2026  |  Dec.-GP: 2520/2026  |  [IMP/URG]"
+  },
+  "GAB|1190": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1182": {
+   "res": 2,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|1818": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19597": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19595": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19594": {
+   "res": 0,
+   "est": null,
+   "solic": ""
+  },
+  "GAB|19604": {
+   "res": 0,
+   "est": null,
+   "solic": "▶ Residente  |  Proc.: 30578/2026  |  Dec.-GP: 4777/2026  |  [IMP/URG]"
+  }
+ },
+ "pesos": {
+  "Nd": 0.6,
+  "Nm": 0.3,
+  "Nt": 0.1
+ },
+ "pesosSejud": {
+  "Nd": 0.5,
+  "Nm": 0.5,
+  "Nt": 0
+ },
+ "prevSejud": 3,
+ "faixas": {
+  "alta": 0.7,
+  "media": 0.4
+ },
+ "txCritica": 0.7
+}
